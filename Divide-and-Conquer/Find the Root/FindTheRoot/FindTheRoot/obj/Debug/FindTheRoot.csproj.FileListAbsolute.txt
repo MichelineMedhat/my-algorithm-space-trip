@@ -1,0 +1,6 @@
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csprojAssemblyReference.cache
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.CoreCompileInputs.cache
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+D:\college\third year\Algorithm\Assignments\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb
