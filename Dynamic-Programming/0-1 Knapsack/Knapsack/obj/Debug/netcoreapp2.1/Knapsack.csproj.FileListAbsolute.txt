@@ -1,0 +1,21 @@
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.deps.json
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.runtimeconfig.json
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.runtimeconfig.dev.json
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.dll
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.pdb
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.AssemblyInfoInputs.cache
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.AssemblyInfo.cs
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.dll
+C:\Users\Micheline\source\repos\Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.pdb
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.deps.json
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.runtimeconfig.json
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.runtimeconfig.dev.json
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.dll
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\bin\Debug\netcoreapp2.1\Knapsack.pdb
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.csprojAssemblyReference.cache
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.csproj.CoreCompileInputs.cache
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.AssemblyInfoInputs.cache
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.AssemblyInfo.cs
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.dll
+D:\college\third year\Algorithm\MyAlgorithmTrip\Dynamic-Programming\0-1 Knapsack\Knapsack\obj\Debug\netcoreapp2.1\Knapsack.pdb
