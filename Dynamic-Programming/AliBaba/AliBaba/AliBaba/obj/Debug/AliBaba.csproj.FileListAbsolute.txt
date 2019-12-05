@@ -1,0 +1,5 @@
+D:\college\third year\Algorithm\Assignments\Assignment-4\AliBaba\AliBaba\AliBaba\obj\Debug\AliBaba.csproj.CoreCompileInputs.cache
+D:\college\third year\Algorithm\Assignments\Assignment-4\AliBaba\AliBaba\AliBaba\bin\Debug\AliBaba.exe
+D:\college\third year\Algorithm\Assignments\Assignment-4\AliBaba\AliBaba\AliBaba\bin\Debug\AliBaba.pdb
+D:\college\third year\Algorithm\Assignments\Assignment-4\AliBaba\AliBaba\AliBaba\obj\Debug\AliBaba.exe
+D:\college\third year\Algorithm\Assignments\Assignment-4\AliBaba\AliBaba\AliBaba\obj\Debug\AliBaba.pdb
